@@ -4,7 +4,7 @@ It is a study project with main goals:
 * Work with real data
 * Find gaps in knowledge and fulfil them with practice experiments and needed theory
 
-### The already achieved:
+### Already achieved points:
 * Learn how catboost model works with text. Learn it from this repo: https://github.com/exotol/data_fusion_vtb/
 * Find out how we can use unlabeled data in Text MultiClassification Task with DistiliBERT + Agglomerative Clustering. Really interesting idea in repo: https://github.com/v-pozdnyakov/data-fusion-contest
 
