@@ -1,1 +1,2 @@
-./data
+data/
+submissions/baseline_catboost_sub/catboost.clf
